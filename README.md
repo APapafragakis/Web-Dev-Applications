@@ -1,5 +1,2 @@
 # Front-End Projects
-
-Welcome to my collection of front-end applications! In my free study time, I've worked on these apps to enhance my skills and explore various aspects of web development. Each project is contained in its own folder within this repository.
-
-
+Step into my realm of front-end applications! During my dedicated study sessions, I delved into these projects to refine my skills and delve into the diverse facets of web development. Each unique project resides within its designated folder in this repository, awaiting your exploration.
