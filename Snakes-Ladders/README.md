@@ -1,7 +1,8 @@
-#Snake and Ladders Game:
+# Snake and Ladders Game:
+
 1. **Objective:**
    - The goal of the game is to navigate through the 9x10 board and reach square 90.
-   - Players take turns rolling a dice and moving their pawn accordingly.
+   - Players take turns rolling a die and moving their pawn accordingly.
    - Various challenges, including snakes, ladders, and special effects, add complexity to the game.
 
 2. **Components:**
@@ -35,4 +36,4 @@
    - Exam Challenge: If a player lands on a square with both a snake and a ladder, they take an exam.
       - Rolling 0-4 follows the snake, while rolling 5-10 takes the ladder.
 
-Feel free to customize these rules based on your preferences or add any specific details unique to your implementation of the game.
+*Feel free to customize these rules based on your preferences or add any specific details unique to your implementation of the game.*
