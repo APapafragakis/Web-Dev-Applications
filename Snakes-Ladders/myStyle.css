@@ -1,0 +1,87 @@
+.ex1
+    {
+      position: relative;
+      top: 0;
+      left: 0;
+    }
+    .ex2
+    {
+      position: absolute;
+      top: 60px;
+      left: 80px;
+    }
+
+table,td {padding: 0px; margin: 0px; cellspacing: 0; cellpadding:0; 
+ border-collapse:collapse; border-spacing: 0px;  border:none; 
+}
+img { display:block;   }
+
+.start{
+  display: none;
+}
+
+.begin{
+  display: block;
+}
+
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.default-text {
+  color: black;
+}
+
+.red-text {
+  color: red;
+}
+
+.white-text {
+  color: rgb(179, 190, 28);
+}
+
+.dice-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#dice {
+  font-size: 24px;
+  margin: 0 10px;
+}
+
+.btn-primary {
+  background-color: #007bff; /* Blue color for Roll the dice button */
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin-top: 20px;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}
+
+#diceImage {
+  width: 30px;
+  height: 30px;
+}
