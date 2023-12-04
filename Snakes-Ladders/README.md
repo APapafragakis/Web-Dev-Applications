@@ -1,4 +1,4 @@
-# Snake and Ladders Game:
+# Snakes and Ladders Game:
 
 1. **Objective:**
    - The goal of the game is to navigate through the 9x10 board and reach square 90.
