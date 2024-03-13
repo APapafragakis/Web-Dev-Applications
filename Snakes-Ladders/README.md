@@ -20,7 +20,7 @@
    - Simple Movement: Roll the die and move the pawn forward by the rolled number of squares.
    - Ladder: If a player lands on a square with a ladder, climb the ladder to the higher-numbered square.
    - Snake: If a player lands on a square with a snake, slide down to the lower-numbered square.
-   - September Effect: Landing on the September logo grants special effects, influencing snake encounters
+   - September Effect: Landing on the September logo grants special effects, influencing snake encounters.
 
 5. **Turn Management:**
    - Players take turns based on the order determined at the start of the game.
